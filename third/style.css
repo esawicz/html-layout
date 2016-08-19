@@ -1,0 +1,72 @@
+html, body {
+	background-color: lightgray;
+	height: 100%;
+}
+
+.container {
+	background-color: lightgray;
+/*	height: 100%;
+	width: 60%;*/
+	border: solid black 1px;
+	margin: 10% auto;
+	padding: 1px;
+	
+}
+
+header {
+	background-color: lightgray;
+	height: 100px;
+	width: 100%;
+
+
+}
+
+.littleblue {
+	background-color: blue;
+	height: 60px;
+	width: 60px;
+	padding: 10px;
+	position: absolute;
+	margin: 10px 10px 10px 20px;
+	
+}
+
+.two {
+	background-color: white;
+	height: 135px;
+	width: 100%;
+	color: black;
+	font-family: serif;
+	font-size: 15px
+
+}
+
+.writing {
+	padding: 25px 30px;
+	background-color: white;
+}
+
+
+.three {
+	background-color: blue;
+	height: 100px;
+	width: 100%;
+}
+
+.four {
+	background-color: green;
+	height: 100px;
+	width: 100%;
+}
+
+.five {
+	background-color: lightgreen;
+	height: 100px;
+	width: 100%;
+}
+
+.six {
+	background-color: yellow;
+	height: 100px;
+	width: 100%;
+}
